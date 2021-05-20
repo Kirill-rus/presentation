@@ -40,3 +40,11 @@
 - revenue — выручка заказа
 - group — группа A/B-теста, в которую попал заказ
 - visitors — количество пользователей в указанную дату в указанной группе A/B-теста
+
+**Используемые библиотеки:**
+- pandas
+- numpy
+- datetime
+- scipy.stats
+- matplotlib.pyplot
+- IPython.display
