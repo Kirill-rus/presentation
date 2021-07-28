@@ -6,4 +6,4 @@
 
 *Ключевые понятия:* категоризация, визуализация, анализ, выделение ключевых критериев.
 
-Для открытия проекта идеально подходит [инструмент](https://nbviewer.jupyter.org/) от разработчика Jupyter notebook.
+Для открытия проекта идеально подходит [инструмент](https://nbviewer.jupyter.org/github/Kirill-rus/presentation/blob/main/marketing%20analysis/03_marketing_analysis.ipynb) от разработчика Jupyter notebook.
