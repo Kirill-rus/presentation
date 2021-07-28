@@ -6,4 +6,4 @@
 
 *Ключевые понятия:* воронка продаж, конверсия, A/B тест.
 
-Для открытия проекта идеально подходит [инструмент](https://nbviewer.jupyter.org/) от разработчика Jupyter notebook.
+Для открытия проекта идеально подходит [инструмент](https://nbviewer.jupyter.org/github/Kirill-rus/presentation/blob/main/sales%20funnel%20defining%20and%20innovation%20checking/04_innovation_checking.ipynb) от разработчика Jupyter notebook.
