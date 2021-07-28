@@ -7,4 +7,4 @@
 
 *Ключевые понятия:* Нулевая гипотеза, нормальное распределение, стандартное отклонение, дисперсия выборок.
 
-Для открытия проекта идеально подходит [инструмент](https://nbviewer.jupyter.org/) от разработчика Jupyter notebook.
+Для открытия проекта идеально подходит [инструмент](https://nbviewer.jupyter.org/github/Kirill-rus/presentation/blob/main/best%20games%20detector/01_best_games_detector.ipynb) от разработчика Jupyter notebook.
