@@ -7,4 +7,4 @@
 
 *Ключевые понятия:* SQL, запросы, подзапросы, анализ.
 
-Для открытия проекта идеально подходит [инструмент](https://nbviewer.jupyter.org/github/Kirill-rus/presentation/blob/main/SQL data extraction and analysis/05_books_sales_analysis.ipynb) от разработчика Jupyter notebook.
+Для открытия проекта идеально подходит [инструмент](https://nbviewer.jupyter.org/github/Kirill-rus/presentation/blob/main/SQL_data_extraction_and_analysis/05_books_sales_analysis.ipynb) от разработчика Jupyter notebook.
